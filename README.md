@@ -8,4 +8,6 @@ Eu Sou Jesiel Vieira, Estou cursando Programação, Atualmento estou aprendendo 
  - <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
  <br/>
  <br/>
-
+<a href="https://www.linkedin.com/in/jesiel-vieira-5ba1b0390/">
+  <img target="_blank" src="https://img.icons8.com/?size=64&id=XRDimtpq5vCY&format=png"/>
+<a/>
