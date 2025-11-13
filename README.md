@@ -1,6 +1,6 @@
-## Olá 😎
-
-<h1>Eu Sou Jesiel Vieira, Estou cursando Programação, Atualmento estou aprendendo e criando projetos com:</h1>
+<h1>Olá! 👋 Sou Jesiel Vieira, estudante de programação e apaixonado por tecnologia.
+Atualmente, estou desenvolvendo projetos com HTML, CSS e iniciando meus estudos em JavaScript.
+Busco aprimorar minhas habilidades a cada dia e transformar ideias em interfaces modernas e funcionais.</h1>
 <br/>
 <br/>
 <br/>
