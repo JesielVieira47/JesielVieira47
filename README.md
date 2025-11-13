@@ -1,12 +1,14 @@
 ## Olá 😎
 
-Eu Sou Jesiel Vieira, Estou cursando Programação, Atualmento estou aprendendo e criando projetos com:
+<h1>Eu Sou Jesiel Vieira, Estou cursando Programação, Atualmento estou aprendendo e criando projetos com:</h1>
 <br/>
 <br/>
 <br/>
  - <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
  - <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
  - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+ <br>
+ <h2><h2>Entre em Contato Comigo:</h2></h2>
  <br/>
  <br/>
 <a href="https://www.linkedin.com/in/jesiel-vieira-5ba1b0390/">
